@@ -10,7 +10,7 @@ Day Camp Tracker helps parents manage summer camp schedules—kids, camps, calen
 
 ## Contact
 
-**Support email:** [camptrack.support@gmail.com](mailto:camptrack.support@gmail.com)
+**Support email:** [sbapp_support@icloud.com](mailto:sbapp_support@icloud.com)
 
 For bug reports, questions, or privacy concerns, use the email above. We typically respond within a few business days.
 

@@ -104,6 +104,6 @@ We may update this Privacy Policy from time to time. We will post the revised po
 
 If you have questions about this Privacy Policy or Day Camp Tracker’s privacy practices, contact:
 
-**Email:** [camptrack.support@gmail.com](mailto:camptrack.support@gmail.com)
+**Email:** [sbapp_support@icloud.com](mailto:sbapp_support@icloud.com)
 
 **App name:** Day Camp Tracker
