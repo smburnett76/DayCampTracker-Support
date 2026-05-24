@@ -16,7 +16,7 @@ For bug reports, questions, or privacy concerns, use the email above. We typical
 
 ## Privacy Policy
 
-**[Read the Camp Track Privacy Policy](privacy-policy.md)**
+**[Read the Camp Track Privacy Policy](privacy-policy)**
 
 ---
 
