@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 # Camp Track Privacy Policy
 
 **Last updated:** May 23, 2026
