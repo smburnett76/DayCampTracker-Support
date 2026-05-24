@@ -24,3 +24,7 @@ For bug reports, questions, or privacy concerns, use the email above. We typical
 
 - **Platform:** iOS  
 - **Data:** Your family’s schedule stays on your iPhone; we do not operate servers that store your camp data.
+
+---
+
+Copyright © 2026 Shannon Burnett. All rights reserved.
