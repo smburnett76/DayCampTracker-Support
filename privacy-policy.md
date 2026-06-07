@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Day Camp Tracker Privacy Policy
 
-**Last updated:** May 24, 2026
+**Last updated:** June 7, 2026
 
 Day Camp Tracker (“**we**,” “**our**,” or “**the app**”) is a summer camp scheduling app for parents. This Privacy Policy explains how information is handled when you use the Day Camp Tracker iOS application (“**Day Camp Tracker**”).
 
@@ -37,16 +37,26 @@ This information is saved locally (for example, in the app’s on-device storage
 
 Day Camp Tracker **does not**:
 
-- Require you to create an account or sign in
+- Require you to create an account or sign in with us
 - Transmit your schedule data to us for storage or analytics
 - Use advertising SDKs or sell your data
-- Collect payment information (the app does not process purchases in-app as described in this policy)
+- Collect or store your credit card, billing address, or other payment details
 
 If we introduce features that change this (for example, optional cloud sync), we will update this policy before or when those features ship.
 
 ---
 
-## 4. Device permissions and features
+## 4. Subscriptions and payments
+
+Day Camp Tracker offers an optional **annual auto-renewable subscription** (with a free trial) through Apple’s App Store. **Apple processes all payments** — we do not receive or store your payment information.
+
+Apple may provide limited purchase information to the app (such as whether a subscription is active) so Day Camp Tracker can grant access. That verification is handled by Apple’s StoreKit and is subject to [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
+
+You can manage, cancel, or request a refund through your **Apple ID** account settings or [reportaproblem.apple.com](https://reportaproblem.apple.com).
+
+---
+
+## 5. Device permissions and features
 
 ### Local notifications
 
@@ -64,15 +74,15 @@ When you tap **Open in Maps**, Day Camp Tracker opens your chosen maps app (Appl
 
 ---
 
-## 5. Information about children
+## 6. Information about children
 
 Parents and guardians enter information about their children (such as a first name) to organize camps. **You control what you enter.** That information stays on your device unless you choose to share it outside the app (for example, via a screenshot or device backup).
 
-We do not knowingly collect personal information directly from children under 13 through Day Camp Tracker. If you believe a child has provided us information in error, contact us using the details in Section 10.
+We do not knowingly collect personal information directly from children under 13 through Day Camp Tracker. If you believe a child has provided us information in error, contact us using the details in Section 11.
 
 ---
 
-## 6. Backups and device security
+## 7. Backups and device security
 
 Your data may be included in **encrypted device backups** (for example, iCloud Backup or a computer backup) according to your Apple ID and device settings. We do not control those backups.
 
@@ -80,7 +90,7 @@ Protect your device with a passcode or Face ID / Touch ID. Anyone who can unlock
 
 ---
 
-## 7. Data retention and deletion
+## 8. Data retention and deletion
 
 - **While installed:** Your schedule remains on your device until you edit or delete it in the app.
 - **Delete the app:** Removing Day Camp Tracker from your iPhone typically deletes the app’s local data from that device. Data may still exist in device backups until those backups are replaced or removed.
@@ -88,19 +98,19 @@ Protect your device with a passcode or Face ID / Touch ID. Anyone who can unlock
 
 ---
 
-## 8. Security
+## 9. Security
 
 We rely on Apple’s iOS app sandbox to isolate Day Camp Tracker data from other apps. No method of electronic storage is 100% secure, but keeping data on-device and not operating a central database reduces exposure from server breaches.
 
 ---
 
-## 9. Changes to this policy
+## 10. Changes to this policy
 
 We may update this Privacy Policy from time to time. We will post the revised policy with a new “Last updated” date. Continued use of Day Camp Tracker after changes means you accept the updated policy.
 
 ---
 
-## 10. Contact us
+## 11. Contact us
 
 If you have questions about this Privacy Policy or Day Camp Tracker’s privacy practices, contact:
 
