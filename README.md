@@ -23,4 +23,4 @@ Enable Pages: repo **Settings → Pages →** source **Deploy from branch** → 
 
 ## Sync with the app repo
 
-When you change privacy text in **DayCampTracker** `docs/privacy-policy.md`, copy sections **1–10** into this repo’s `privacy-policy.md` (keep the YAML front matter here; omit developer-only notes from the app repo).
+When you change privacy text in **DayCampTracker** `docs/privacy-policy.md`, copy sections **1–11** (through **Contact us**) into this repo’s `privacy-policy.md`. Keep the YAML front matter here; omit the app-repo dev note at the top and **Section 12** (App Store privacy labels). Use a `mailto:` link for the support email on the published page.
