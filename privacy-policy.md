@@ -6,7 +6,7 @@ title: Privacy Policy
 
 **Last updated:** June 7, 2026
 
-Day Camp Tracker (“**we**,” “**our**,” or “**the app**”) is a summer camp scheduling app for parents. This Privacy Policy explains how information is handled when you use the Day Camp Tracker iOS application (“**Day Camp Tracker**”).
+Day Camp Tracker (“**we**,” “**our**,” or “**the app**”) is a day camp planning app for parents. This Privacy Policy explains how information is handled when you use the Day Camp Tracker iOS application (“**Day Camp Tracker**”).
 
 **Summary:** Day Camp Tracker is designed to keep your family’s schedule on your iPhone. We do not operate servers that store your camp data, and we do not sell your information.
 

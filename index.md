@@ -4,7 +4,7 @@ title: Day Camp Tracker — Support
 
 Support and legal information for **Day Camp Tracker** on iPhone.
 
-Day Camp Tracker helps parents manage summer camp schedules—kids, camps, calendar, conflicts, and local reminders—all stored on your device.
+Day Camp Tracker helps parents manage day camp schedules—kids, camps, calendar, conflicts, and local reminders—all stored on your device.
 
 ---
 
